@@ -12,3 +12,6 @@ clean code structure and modular design.
 ## How to Run
 ```bash
 python main.py
+
+## Testing
+Basic tests are included to verify core functionality.
