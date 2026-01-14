@@ -9,9 +9,9 @@ clean code structure and modular design.
 - Add tasks
 - View task list
 
+## Testing
+Basic tests are included to verify core functionality.
+
 ## How to Run
 ```bash
 python main.py
-
-## Testing
-Basic tests are included to verify core functionality.
